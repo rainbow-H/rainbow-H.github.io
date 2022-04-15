@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rainbow的个人博客</title>
+  
+  
+  <link href="https://rainbow-h.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://rainbow-h.github.io/"/>
+  <updated>2022-04-14T12:08:00.304Z</updated>
+  <id>https://rainbow-h.github.io/</id>
+  
+  <author>
+    <name>Rainbow</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>“第一篇测试GitHub博客搭建的文章”</title>
+    <link href="https://rainbow-h.github.io/2022/04/14/%E2%80%9C%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95GitHub%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9A%84%E6%96%87%E7%AB%A0%E2%80%9D/"/>
+    <id>https://rainbow-h.github.io/2022/04/14/%E2%80%9C%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95GitHub%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9A%84%E6%96%87%E7%AB%A0%E2%80%9D/</id>
+    <published>2022-04-14T12:06:29.000Z</published>
+    <updated>2022-04-14T12:08:00.304Z</updated>
+    
+    <content type="html"><![CDATA[<p>随便写点什么，测试一下博客是否可以成功写文章啦</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;随便写点什么，测试一下博客是否可以成功写文章啦&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://rainbow-h.github.io/2022/04/14/hello-world/"/>
+    <id>https://rainbow-h.github.io/2022/04/14/hello-world/</id>
+    <published>2022-04-14T09:46:23.062Z</published>
+    <updated>2022-04-14T09:46:23.062Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="highlight bash">$ hexo new <span class="string">&quot;My New Post&quot;</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="highlight bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="highlight bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="highlight bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
