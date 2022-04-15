@@ -68,7 +68,7 @@
     }
 }
 
-footer {
+#footer {
     background: linear-gradient(-45deg, #ee7752, #ce3e75, #23a6d5, #23d5ab);
     background-size: 400% 400%;
     -webkit-animation: Gradient 10s ease infinite;
@@ -83,21 +83,6 @@ footer {
     border-top-right-radius: 10px;
 }
 
-    footer:before {
+    #footer:before {
         background-color: rgba(0, 0, 0, 0);
     }
-
-/* ����ҳ���� */
-.layout_post > #post {
-    /* ���´�����ɫ͸����Ϊ0.3 */
-    background: rgba(255,255,255,.3);
-}
-
-/* ���б�����������ҳ��Ƭ������ҳ��ҳ��ҳ�ȣ� */
-#aside_content .card-widget, #recent-posts > .recent-post-item, .layout_page > div:first-child:not(.recent-posts), .layout_post > #page, .layout_post > #post, .read-mode .layout_post > #post {
-    /* ���´�����ɫ͸����Ϊ0.3 */
-    background: rgba(255,255,255,.3);
-}
-#web_bg {
-    background-image: /img/rain.jpg
-}
