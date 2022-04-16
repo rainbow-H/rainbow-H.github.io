@@ -3,7 +3,6 @@ https://rainbow-h.github.io/music/index.html
 https://rainbow-h.github.io/archivers/index.html
 https://rainbow-h.github.io/photos/index.html
 https://rainbow-h.github.io/movies/index.html
-https://rainbow-h.github.io/shuoshuo/index.html
 https://rainbow-h.github.io/about/index.html
 https://rainbow-h.github.io/links/index.html
 https://rainbow-h.github.io/messageboard/index.html
