@@ -1,3 +1,4 @@
+https://rainbow-h.github.io/2022/04/16/best-wish/
 https://rainbow-h.github.io/music/index.html
 https://rainbow-h.github.io/archivers/index.html
 https://rainbow-h.github.io/photos/index.html
@@ -8,6 +9,5 @@ https://rainbow-h.github.io/links/index.html
 https://rainbow-h.github.io/messageboard/index.html
 https://rainbow-h.github.io/categories/index.html
 https://rainbow-h.github.io/tags/index.html
-https://rainbow-h.github.io/2022/04/14/%E2%80%9C%E7%AC%AC%E4%B8%80%E7%AF%87%E6%B5%8B%E8%AF%95GitHub%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9A%84%E6%96%87%E7%AB%A0%E2%80%9D/
-https://rainbow-h.github.io/2022/04/14/hello-world/
 https://rainbow-h.github.io/
+https://rainbow-h.github.io/tags/test/
