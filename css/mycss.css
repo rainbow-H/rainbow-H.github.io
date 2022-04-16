@@ -27,13 +27,13 @@
 /* ����ҳ���� */
 .layout_post > #post {
     /* ���´�����ɫ͸����Ϊ0.3 */
-    background: rgba(255,255,255,.3);
+    background: rgba(255,255,255,.5);
 }
 
 /* ���б�����������ҳ��Ƭ������ҳ��ҳ��ҳ�ȣ� */
 #aside_content .card-widget, #recent-posts > .recent-post-item, .layout_page > div:first-child:not(.recent-posts), .layout_post > #page, .layout_post > #post, .read-mode .layout_post > #post {
     /* ���´�����ɫ͸����Ϊ0.3 */
-    background: rgba(255,255,255,.3);
+    background: rgba(255,255,255,.5);
 }
 #web_bg {
     /* ����ͼ��ĵ�ַ��url�����  */
