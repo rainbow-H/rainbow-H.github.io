@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://rainbow-h.github.io/2022/07/29/%E3%80%90%E6%B4%9B%E8%B0%B7%E8%AE%B0%E5%BD%95%E3%80%9101-P1047/</loc>
+    <loc>https://rainbow-h.github.io/2022/07/29/%E3%80%90%E6%B4%9B%E8%B0%B7%E8%AE%B0%E5%BD%95%E3%80%9101-P1047%E6%A0%A1%E9%97%A8%E5%A4%96%E7%9A%84%E6%A0%91/</loc>
     
-    <lastmod>2022-07-29</lastmod>
+    <lastmod>2022-07-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rainbow-h.github.io/2022/07/30/%E3%80%90%E6%B4%9B%E8%B0%B7%E8%AE%B0%E5%BD%95%E3%80%9102-P1059%E6%98%8E%E6%98%8E%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%95%B0/</loc>
+    
+    <lastmod>2022-07-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -103,7 +112,7 @@
 
   <url>
     <loc>https://rainbow-h.github.io/</loc>
-    <lastmod>2022-07-29</lastmod>
+    <lastmod>2022-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,7 +120,7 @@
   
   <url>
     <loc>https://rainbow-h.github.io/tags/%E6%B4%9B%E8%B0%B7/</loc>
-    <lastmod>2022-07-29</lastmod>
+    <lastmod>2022-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
