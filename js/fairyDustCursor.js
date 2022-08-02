@@ -55,7 +55,7 @@ function updateParticles() {
     particles [i].update();
 }
 
-for( var i=particles.length -1; i>=0; i-- ) {
+for(var i=particles.length -1; i>=0; i--){
     if( particles[i].lifeSpan < 0 )
 
 {
